@@ -1,6 +1,3 @@
-# Customer-Churn-Prediction-Model-Python-Machine-Learning-
-Developed a supervised machine learning pipeline to predict telecom customer churn using Python.
-
 # Customer Churn Prediction (Telecom Dataset)
 
 A machine learning project that predicts customer churn using real-world telecom data. The goal is to identify customers likely to leave and compare model performance between Logistic Regression and Random Forest classifiers.
