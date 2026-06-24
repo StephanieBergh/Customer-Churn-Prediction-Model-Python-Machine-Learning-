@@ -128,7 +128,7 @@ jupyter notebook
 
 ### Running the Application
 
-Run the program:
+Open the program:
 automobiles.ipynb
 
 
