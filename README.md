@@ -105,13 +105,14 @@ python --version
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/StephanieBergh/Task_Manager.git
+git clone https://github.com/StephanieBergh/Customer-Churn-Prediction-Model-Python-Machine-Learning-.git
 ```
 
 2. Navigate to the project folder:
 
 ```bash
-cd Task_Manager
+cd Customer-Churn-Prediction-Model-Python-Machine-Learning-
+
 ```
 
 3. Install required packages:
