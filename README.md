@@ -118,16 +118,19 @@ cd Customer-Churn-Prediction-Model-Python-Machine-Learning-
 3. Install required packages:
 
 ```bash
-pip install tabulate
+pip install notebook numpy pandas matplotlib seaborn scikit-learn
+```
+
+### Launch Jupyter Notebook
+```bash
+jupyter notebook
 ```
 
 ### Running the Application
 
-Run the program from the terminal:
+Run the program:
+automobiles.ipynb
 
-```bash
-python task_manager.py
-```
 
 ## Author
 
