@@ -88,16 +88,47 @@ To analyze customer behavior and build predictive models that identify churn ris
 
 ---
 
-## Future Improvements
+## How to Run
 
-- Hyperparameter tuning (GridSearchCV)
-- ROC-AUC analysis
-- Class imbalance handling (SMOTE)
-- Deploy model as a web app (Flask/Streamlit)
+### Prerequisites
 
----
+Make sure Python 3 is installed on your system.
 
-## 👤 Author
+You can verify your installation by running:
 
-Stephanie Bergh  
-Aspiring Quantitative Analyst / Data Engineer
+```bash
+python --version
+```
+
+### Installation
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/StephanieBergh/Task_Manager.git
+```
+
+2. Navigate to the project folder:
+
+```bash
+cd Task_Manager
+```
+
+3. Install required packages:
+
+```bash
+pip install tabulate
+```
+
+### Running the Application
+
+Run the program from the terminal:
+
+```bash
+python task_manager.py
+```
+
+## Author
+
+** Stephanie Bergh **  
+Data Analyst
