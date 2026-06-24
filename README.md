@@ -133,6 +133,10 @@ automobiles.ipynb
 
 
 ## Author
+**Stephanie Bergh**
 
-** Stephanie Bergh **  
-Data Analyst
+Junior Data Analyst
+
+GitHub: https://github.com/StephanieBergh
+
+LinkedIn: https://www.linkedin.com/in/stephanie-bergh-142aa818a/
